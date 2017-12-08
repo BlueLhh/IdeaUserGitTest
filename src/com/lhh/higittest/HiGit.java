@@ -6,5 +6,7 @@ public class HiGit {
         System.out.println("Hi GitHub!!!");
         System.out.println("Hi GitHub!!!");
         System.out.println("Hi GitHub!!!");
+        System.out.println("Hi GitHub!!!");
+        System.out.println("Hi GitHub!!!");
     }
 }
